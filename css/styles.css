@@ -298,14 +298,14 @@ main {
     gap: 4rem;
 }
 
-.contact-form {
+.contact-info {
     background-color: #fff;
     border-radius: 8px;
     padding: 2rem;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.contact-form h2 {
+.contact-info h2 {
     color: #2c3e50;
     margin-bottom: 1.5rem;
     font-size: 1.8rem;
@@ -353,17 +353,17 @@ main {
     background-color: #34495e;
 }
 
-.contact-info {
-    padding: 2rem;
+.contact-form {
+    padding: 0.5rem;
 }
 
-.contact-info h2 {
+.contact-form h2 {
     color: #2c3e50;
     margin-bottom: 1.5rem;
     font-size: 1.8rem;
 }
 
-.contact-info p {
+.contact-form p {
     margin-bottom: 1.5rem;
     color: #4b5563;
 }
